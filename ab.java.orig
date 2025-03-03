@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+class hello #ops2
+{
+	void main() #ops2
+=======
+class hello #ops1
+{
+	void main()  #ops1
+>>>>>>> 57ac586447b6b72015104a058d8f696ebc3593d7
+	{
+		printf("hi cloud from ops1") 
+	}
+
+
+} #ops2
+
