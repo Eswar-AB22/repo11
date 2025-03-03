@@ -1,8 +1,8 @@
-class hello #ops1
+class hello
 {
-	void main() #op2
+	void main()
 	{
-		printf("hi cloud from ops2")
+		printf("hi cloud")
 	}
 
 
